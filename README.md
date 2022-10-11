@@ -43,7 +43,7 @@ Next, if you don't have the AWS Amplify CLI installed, please follow the instruc
 
 Simply click on the link below:
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/aws-samples/amazon-rekognition-id-verification-sample-with-amplify)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/anshu-kashyap1/amplify)
 
 
 ## Deploying sample app using the CLI
