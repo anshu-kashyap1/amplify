@@ -1,0 +1,80 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amazonrekognitionidv-dev-122824-authRole",
+      "UnauthRoleArn": "arn:aws:iam::403014890115:role/amplify-amazonrekognitionidv-dev-122824-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::403014890115:role/amplify-amazonrekognitionidv-dev-122824-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amazonrekognitionidv-dev-122824-deployment",
+      "UnauthRoleName": "amplify-amazonrekognitionidv-dev-122824-unauthRole",
+      "StackName": "amplify-amazonrekognitionidv-dev-122824",
+      "StackId": "arn:aws:cloudformation:us-west-2:403014890115:stack/amplify-amazonrekognitionidv-dev-122824/aaa2d0d0-1c93-11ec-8e8c-06078d87fbfd",
+      "AmplifyAppId": "dppsa6snldydo"
+    },
+    "categories": {
+      "auth": {
+        "amazonrekognitionidv6570cbea": {},
+        "userPoolGroups": {}
+      },
+      "function": {
+        "idvworkflowfn": {
+          "deploymentBucketName": "amplify-amazonrekognitionidv-dev-122824-deployment",
+          "s3Key": "amplify-builds/idvworkflowfn-6f6734716751616d456d-build.zip"
+        },
+        "S3Triggerb6cacc90": {
+          "deploymentBucketName": "amplify-amazonrekognitionidv-dev-122824-deployment",
+          "s3Key": "amplify-builds/S3Triggerb6cacc90-4d785a62696c4b6d794f-build.zip"
+        },
+        "amazonrekognitionidv6570cbea": {},
+        "amazonrekognitionidv": {},
+        "idvimagebucket": {},
+        "userPoolGroups": {}
+      }
+    }
+  },
+  "amplify": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amazonrekognitionidv-amplify-150735-authRole",
+      "UnauthRoleArn": "arn:aws:iam::684258736905:role/amplify-amazonrekognitionidv-amplify-150735-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::684258736905:role/amplify-amazonrekognitionidv-amplify-150735-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amazonrekognitionidv-amplify-150735-deployment",
+      "UnauthRoleName": "amplify-amazonrekognitionidv-amplify-150735-unauthRole",
+      "StackName": "amplify-amazonrekognitionidv-amplify-150735",
+      "StackId": "arn:aws:cloudformation:us-east-1:684258736905:stack/amplify-amazonrekognitionidv-amplify-150735/591477e0-4948-11ed-b6bc-0e7978bf37f7",
+      "AmplifyAppId": "dk3qx1wlktpk6"
+    },
+    "categories": {
+      "auth": {
+        "amazonrekognitionidv6570cbea": {},
+        "userPoolGroups": {}
+      },
+      "function": {
+        "idvworkflowfn": {
+          "deploymentBucketName": "amplify-amazonrekognitionidv-amplify-150735-deployment",
+          "s3Key": "amplify-builds/idvworkflowfn-6f574941796445655139-build.zip"
+        },
+        "S3Triggerb6cacc90": {
+          "deploymentBucketName": "amplify-amazonrekognitionidv-amplify-150735-deployment",
+          "s3Key": "amplify-builds/S3Triggerb6cacc90-692f6c50785437745046-build.zip"
+        },
+        "amazonrekognitionidv6570cbea": {},
+        "amazonrekognitionidv": {},
+        "idvimagebucket": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "amazonrekognitionidv": {}
+      },
+      "storage": {
+        "idvimagebucket": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dk3qx1wlktpk6",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
